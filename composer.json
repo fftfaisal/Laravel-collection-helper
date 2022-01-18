@@ -1,0 +1,14 @@
+{
+    "name": "fftfaisal/phphelper",
+    "type": "library",
+    "description": "An helper method collection based on laravel which can be used in any php project.",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Helper\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
