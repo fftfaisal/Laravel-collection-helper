@@ -9,7 +9,7 @@ create a composer.json in your root project folder. Then add this code
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/fftfaisal/phphelper"
+            "url": "https://github.com/fftfaisal/Laravel-collection-helper"
         }
     ]
 }
